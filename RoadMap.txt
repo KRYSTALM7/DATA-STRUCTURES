@@ -1,0 +1,47 @@
+First step to choose a programming language
+c++ or java
+Now start learning the language first:
+1.Basic syntax
+2.DataTypes
+3.operators,variables,functions
+4.conditional statements ,loops
+OOPS concepts
+Step2:
+Learn the basic Datta Structure .types of DS
+Linear ds*
+-array
+-string
+-linked list
+-stack
+-queue
+-Hash table
+Non-linear*
+-Tree
+-Graph
+-heap
+Step:3-
+Now learn basic algorithms
+-Bullble sort
+-selection sort
+-insertion sort
+-merge sort
+-quick sort
+-count sort
+Searching algorithms*
+-LinearSearch
+-binary search
+Recursion*
+(Grasp the concept very clearly)
+-Backtracking
+-greedy Approach
+-dynamic programming
+-bit manipulation
+
+Step:4-
+Some Advance Topics*
+-Segment Tree
+-tries
+-suffix Tree
+-suffix arrayAdvance graph theory
+
+
